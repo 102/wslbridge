@@ -13,7 +13,7 @@ else {
 }
 
 # [Ports]
-# All the ports you want to forward separated by coma
+# All the ports you want to forward separated by comma
 $ports = @(3000, 3001, 3002, 9001);
 
 
